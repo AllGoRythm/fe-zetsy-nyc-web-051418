@@ -4,12 +4,7 @@
 	src: "fonts/Baskerville.ttc"
 }
 /* link the web font used for the level 1 heading here */
-h1 {
-	font-family: Baskerville;
-	color: rgb(156, 172, 166);
-	font-size: 78px;
-	/*line-height: 0;*/
-}
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -26,3 +21,10 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 {
+	font-family: Baskerville;
+	color: rgb(156, 172, 166);
+	font-size: 78px;
+	/*line-height: 0;*/
+}
