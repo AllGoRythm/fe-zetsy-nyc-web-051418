@@ -22,9 +22,10 @@ body {
 
 /* Write all remaining styles here */
 
-header {
+h1 {
 	font-family: Baskerville, serif;
 	color: rgb(156, 172, 166);
+	font-size: 5em;
 	font-weight: normal;
 	/*line-height: 0;*/
 }
@@ -35,7 +36,7 @@ h2 {
 
 #main-image {
 	border: 3px solid;
-	border-color: rgb(156, 172, 166);
+	border-color: grey;
 }
 
 footer {
