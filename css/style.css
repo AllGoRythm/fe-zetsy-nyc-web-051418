@@ -34,6 +34,11 @@ h2 {
 	color: rgb(156, 172, 166);
 }
 
+#main-image {
+	border: 3px solid;
+	border-color: grey;
+}
+
 footer {
 	text-align: right;
 	color: #555;
