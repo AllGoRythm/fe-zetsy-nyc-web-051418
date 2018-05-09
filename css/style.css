@@ -37,6 +37,10 @@ h2 {
 	color: grey;
 }
 
+.border {
+	border-bottom: 1px solid #ccc;
+}
+
 #main-image {
 	border: 3px solid;
 	border-color: #ccc;
