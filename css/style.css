@@ -27,6 +27,7 @@ h1 {
 	color: rgb(156, 172, 166);
 	font-size: 5em;
 	font-weight: normal;
+	border-bottom: 2px solid;
 	/*line-height: 0;*/
 }
 
